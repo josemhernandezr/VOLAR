@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VOLAR/static/css/main.18bdb07e.chunk.css",
+    "main.js": "/VOLAR/static/js/main.24ba528f.chunk.js",
+    "main.js.map": "/VOLAR/static/js/main.24ba528f.chunk.js.map",
+    "runtime-main.js": "/VOLAR/static/js/runtime-main.9b32affb.js",
+    "runtime-main.js.map": "/VOLAR/static/js/runtime-main.9b32affb.js.map",
+    "static/js/2.c61ce553.chunk.js": "/VOLAR/static/js/2.c61ce553.chunk.js",
+    "static/js/2.c61ce553.chunk.js.map": "/VOLAR/static/js/2.c61ce553.chunk.js.map",
+    "static/js/3.0ad59e4b.chunk.js": "/VOLAR/static/js/3.0ad59e4b.chunk.js",
+    "static/js/3.0ad59e4b.chunk.js.map": "/VOLAR/static/js/3.0ad59e4b.chunk.js.map",
+    "index.html": "/VOLAR/index.html",
+    "static/css/main.18bdb07e.chunk.css.map": "/VOLAR/static/css/main.18bdb07e.chunk.css.map",
+    "static/js/2.c61ce553.chunk.js.LICENSE.txt": "/VOLAR/static/js/2.c61ce553.chunk.js.LICENSE.txt",
+    "static/media/graficobarras.css": "/VOLAR/static/media/fondo.701a0b80.jpg",
+    "static/media/style.css": "/VOLAR/static/media/fondo_sm.4372d166.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b32affb.js",
+    "static/js/2.c61ce553.chunk.js",
+    "static/css/main.18bdb07e.chunk.css",
+    "static/js/main.24ba528f.chunk.js"
+  ]
+}
